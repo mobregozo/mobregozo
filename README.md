@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Manuel, I was born and raised in Argentina, currently located in Spain.<br/>
+My name is Manuel, I was born and raised in Argentina, now located in Spain.<br/>
 JavaScript Dev, keen on UI/UX related topics, currently starting a new path as a Product Owner.
 
 **Want to know more about me?**<br/>
